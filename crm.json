@@ -1,0 +1,80 @@
+[
+	{
+		"crm": "4990-MT",
+		"nome": "Alexandre Loverde Falcão",
+		"especialidade": "Neurocirurgia",
+		"regularizado": true
+	},
+	{
+		"crm": "5321-MT",
+		"nome": "Andre Lopes Monteiro Aparecido Munhoz",
+		"especialidade": "Cardiologia",
+		"regularizado": true
+	},
+	{
+		"crm": "4471-MT",
+		"nome": "Andrea Campos de Almeida Marquezi",
+		"especialidade": "Pediatria",
+		"regularizado": true
+	},
+	{
+		"crm": "1414-MT",
+		"nome": "Carlos Roberto Takayassu",
+		"especialidade": "Clínica Médica",
+		"regularizado": true
+	},
+	{
+		"crm": "7874-MT",
+		"nome": "Bruno Lodi",
+		"especialidade": "Psiquiatria",
+		"regularizado": true
+	},
+	{
+		"crm": "1837-MT",
+		"nome": "Cassio Cesar Ghidella",
+		"especialidade": "Dermatologia",
+		"regularizado": true
+	},
+	{
+		"crm": "8124-MT",
+		"nome": "Danilo Santana Rodrigues",
+		"especialidade": "Otorrinolaringologia",
+		"regularizado": true
+	},
+	{
+		"crm": "4120-MT",
+		"nome": "Fabio Pelegrino",
+		"especialidade": "Oftalmologia",
+		"regularizado": true
+	},
+	{
+		"crm": "4199-MT",
+		"nome": "Gisele Reck Claudino",
+		"especialidade": "Pediatria",
+		"regularizado": true
+	},
+	{
+		"crm": "6051-MT",
+		"nome": "Helio Ceravolo de Caires Neto",
+		"especialidade": "Dermatologia",
+		"regularizado": true
+	},
+	{
+		"crm": "3325-MT",
+		"nome": "Iris Bohac Francisco Lopes",
+		"especialidade": "Oftalmologia",
+		"regularizado": true
+	},
+	{
+		"crm": "11687-MT",
+		"nome": "Johnny Blendo Fernandes",
+		"especialidade": "Psiquiatria",
+		"regularizado": true
+	},
+	{
+		"crm": "7892-MT",
+		"nome": "Vanessa Cristina Bazan Franceschini",
+		"especialidade": "Psiquiatria",
+		"regularizado": true
+	}
+]
